@@ -1,0 +1,97 @@
+header {
+  background: white;
+  border-bottom: 1px solid #f3735f;
+}
+
+#logo {
+  width: 200px;
+  margin: 30px;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  background: #efefef;
+}
+
+.container {
+  width: 1024px;
+  background: white;
+  margin: 0 auto;
+  border-radius: 10px;
+}
+
+section {
+  background: white;
+  padding: 60px 30px;
+  border-radius: 20px;
+}
+
+p {
+  line-height: 22px;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  color: #393c6c;
+  margin: 10px;
+}
+
+h2 {
+  font-size: 30px;
+  color: #f3735f;
+  margin-top: 70px;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 18px bold;
+  color: #393c6c;
+  line-height: 22px;
+  font-weight: bold;
+}
+
+.photos {
+  width: 290px;
+  height: 290px;
+  object-fit: cover;
+  border-radius: 30px;
+}
+
+main section {
+  margin-top: 50px;
+}
+
+.bouton {
+  background: grey;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  border-radius: 10px;
+  margin: 0px 300px 50px;
+}
+
+.centralisation {
+  text-align: center;
+}
+
+.liste {
+  font-size: 15px;
+  color: grey;
+  list-style-type: circle;
+  padding: 0px 30px;
+}
+
+footer {
+  text-align: center;
+  padding: 80px;
+  color: grey;
+}
+
+.margin-photo {
+  margin-right: 40px;
+}
